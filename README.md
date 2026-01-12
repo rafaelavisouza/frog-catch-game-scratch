@@ -9,6 +9,10 @@ In this game, the player controls a hungry frog trying to catch insects falling 
 * **Dynamic Gameplay:** Implements loops and clones to handle three insects falling simultaneously.
 * **Sound & Visual Feedback:** Custom sound effects and costume changes based on conditional logic.
 * **Game Over Mechanics:** A special "dead frog" costume and soundtrack are triggered if the score drops below zero.
+* <img width="1165" height="870" alt="image" src="https://github.com/user-attachments/assets/effc6137-3449-48ec-89fe-1d9e88d2ec02" />
+<img width="1165" height="870" alt="image" src="https://github.com/user-attachments/assets/f3b7adbb-8798-4dc4-a5d8-d6bf34448447" />
+
+
 
 ## 🎮 How to Play
 * **Left/Right Arrow Keys:** Move the frog across the screen.
